@@ -6,6 +6,7 @@ module.exports = {
       colors:{
         dark_nilla: "#002970",
         nilla:"#00baf2",
+        nillBlur:"#00a5d6",
         lightColor:"#f5f5f5"
       }
     },
