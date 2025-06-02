@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* .bgI{
+    background: url(/assets/asset 52.avif);
+    background-position: center;
+    background-size: cover;
+} */
