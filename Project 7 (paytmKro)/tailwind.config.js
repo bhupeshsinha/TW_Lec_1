@@ -9,7 +9,8 @@ module.exports = {
         nillBlur:"#00afe3",
         lightColor:"#f5f5f5",
         lightDarkNilla:"#0f4a8a",
-        bgColor:"#f5f7fa"
+        bgColor:"#f5f7fa",
+        ultralightNilla: "#4ccff6"
       }
     },
   },
