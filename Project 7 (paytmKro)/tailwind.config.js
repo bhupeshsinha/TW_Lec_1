@@ -11,6 +11,12 @@ module.exports = {
         lightDarkNilla:"#0f4a8a",
         bgColor:"#f5f7fa",
         ultralightNilla: "#4ccff6"
+      },
+      screens:{
+        'verySmall': {'max':"399px"},
+        'small' : "400px",
+        'medium' : "768px",
+        'large' : {'max': '1070px'}
       }
     },
   },
