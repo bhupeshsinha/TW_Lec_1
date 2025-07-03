@@ -14,7 +14,7 @@ module.exports = {
       },
       screens:{
         'verySmall': {'max':"399px"},
-        'small' : "400px",
+        'small' : {'max': "550px"},
         'medium' : {'max': "768px"},
         'large' : {'max': '1070px'}
       }
